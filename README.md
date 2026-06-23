@@ -13,3 +13,4 @@ A responsive web application that allows users to search for and explore movies.
 - The Movie Database (TMDb) API - Source of movie data.
 - fetch - Promise-based HTTP client for making API requests.
 - styled-components - CSS-in-JS library for styling components.
+-now we will implement node.js as backend
