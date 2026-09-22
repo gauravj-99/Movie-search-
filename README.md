@@ -11,4 +11,4 @@ A responsive web application that allows users to search for and explore movies.
 
 - React - JavaScript library for building user interfaces.
 - The Movie Database (TMDb) API - Source of movie data.
-- fetch - Promise-based HTTP client for making API requests.
+- fetch -
