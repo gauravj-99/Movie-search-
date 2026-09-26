@@ -10,4 +10,4 @@ A responsive web application that allows users to search for and explore movies.
 ### Built With
 
 - React - JavaScript library for building user interfaces.
-- The Movie Database (TMDb) API - Source of movie data.
+- The Movie Database (TMDb) API 
