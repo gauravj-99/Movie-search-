@@ -9,4 +9,4 @@ A responsive web application that allows users to search for and explore movies.
 
 ### Built With
 
-- React - JavaScript library for building user interfaces.
+- React - JavaScript library for building UI
